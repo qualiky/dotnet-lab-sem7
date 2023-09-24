@@ -8,6 +8,8 @@ The project structure is organized as follows:
 
 - **Lab01**: Introduction to .NET
   - Contains the code and files related to the first lab assignment: creating a Web API in command line and adding NuGet packages.
+  - Created a new route ```/``` and linked it to a controller
+  - Created a collection in Postman, set variable to the project ```BASE_URL``` and tested the created APIs
   
 
 
