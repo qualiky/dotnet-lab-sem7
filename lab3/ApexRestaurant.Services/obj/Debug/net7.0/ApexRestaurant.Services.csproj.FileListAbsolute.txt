@@ -1,0 +1,15 @@
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/bin/Debug/net7.0/ApexRestaurant.Services.deps.json
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/bin/Debug/net7.0/ApexRestaurant.Services.dll
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/bin/Debug/net7.0/ApexRestaurant.Services.pdb
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/bin/Debug/net7.0/ApexRestaurant.Repository.dll
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/bin/Debug/net7.0/ApexRestaurant.Repository.pdb
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.csproj.AssemblyReference.cache
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.AssemblyInfoInputs.cache
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.AssemblyInfo.cs
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.csproj.CoreCompileInputs.cache
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.csproj.CopyComplete
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.dll
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/obj/Debug/net7.0/refint/ApexRestaurant.Services.dll
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/obj/Debug/net7.0/ApexRestaurant.Services.pdb
+/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Services/obj/Debug/net7.0/ref/ApexRestaurant.Services.dll

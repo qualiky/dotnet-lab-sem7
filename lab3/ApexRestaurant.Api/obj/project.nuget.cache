@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "eVgSDGA8BmyO4/ktN9mA++zAZM3MEFKQZWsaUQSYWKN3XMb8GU/XEaH8h14JGimr2RH00wOIGS29BhVlawE4kQ==",
+  "success": true,
+  "projectFilePath": "/Users/sandeepgautam/Apex/Sem7/DOTNET/dotnet-lab/lab3/ApexRestaurant.Api/ApexRestaurant.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/sandeepgautam/.nuget/packages/microsoft.aspnetcore.openapi/7.0.11/microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "/Users/sandeepgautam/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/sandeepgautam/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/sandeepgautam/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/sandeepgautam/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/sandeepgautam/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/sandeepgautam/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
