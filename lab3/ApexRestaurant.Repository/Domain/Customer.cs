@@ -17,3 +17,4 @@ public class Customer
     public string UpdatedBy { get; set; }
     public DateTime UpdatedOn { get; set; }
 }
+

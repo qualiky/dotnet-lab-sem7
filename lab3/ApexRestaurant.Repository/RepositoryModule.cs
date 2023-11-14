@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using ApexRestaurant.Repository.RCustomer;
+using ApexRestaurant.Repository.RStaff;
+using ApexRestaurant.Repository.RStaffRole;
 
 
 namespace ApexRestaurant.Repository;
@@ -14,5 +16,8 @@ public static class RepositoryModule
             )
         );
         services.AddTransient<ICustomerRepository, CustomerRepository>();
+        services.AddTransient<IStaffRepository, StaffRepository>();
+        services.AddTransient<IStaffRoleRepository, StaffRoleRepository>();
+        services.AddTransient<IMenuItemRepository, MenuItemRepository>();
     }
 }
