@@ -19,5 +19,8 @@ public static class RepositoryModule
         services.AddTransient<IStaffRepository, StaffRepository>();
         services.AddTransient<IStaffRoleRepository, StaffRoleRepository>();
         services.AddTransient<IMenuItemRepository, MenuItemRepository>();
+        services.AddTransient<IOrderRepository, OrderRepository>();
+        services.AddTransient<IReservationRepository, ReservationRepository>();
+        services.AddTransient<ITableRepository, TableRepository>();
     }
 }

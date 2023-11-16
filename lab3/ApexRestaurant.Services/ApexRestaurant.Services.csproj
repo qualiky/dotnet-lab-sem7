@@ -4,8 +4,21 @@
     <ProjectReference Include="..\ApexRestaurant.Repository\ApexRestaurant.Repository.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="SCustomer\" />
+    <None Remove="SMenuItem\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SCustomer\" />
+    <Folder Include="SMenuItem\" />
+  </ItemGroup>
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
