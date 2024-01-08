@@ -1,7 +1,7 @@
 ﻿using ApexRestaurant.Services.SCustomer;
 using ApexRestaurant.Services.SMenuItem;
 using ApexRestaurant.Services.SOrder;
-using ApexRestaurant.Services.SOrderItem;
+// using ApexRestaurant.Services.SOrderItem;
 using ApexRestaurant.Services.SReservation;
 using ApexRestaurant.Services.SStaff;
 using ApexRestaurant.Services.SStaffRole;
@@ -17,7 +17,7 @@ public static class ServiceModule
 		services.AddTransient<ICustomerService, CustomerService>();
 		services.AddTransient<IMenuItemService, MenuItemService>();
 		services.AddTransient<IOrderService, OrderService>();
-		services.AddTransient<IOrderItemService, OrderItemService>();
+		// services.AddTransient<IOrderItemService, OrderItemService>();
 		services.AddTransient<IReservationService, ReservationService>();
 		services.AddTransient<IStaffService, StaffService>();
 		services.AddTransient<IStaffRoleService, StaffRoleService>();

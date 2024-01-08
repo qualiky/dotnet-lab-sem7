@@ -1,6 +1,6 @@
 using ApexRestaurant.Repository.Domain;
 
-namespace ApexRestaurant.Repository.RStaff;
+namespace ApexRestaurant.Repository.ROrderItem;
 
 public interface IOrderItemRepository: IGenericRepository<OrderItem> 
 {

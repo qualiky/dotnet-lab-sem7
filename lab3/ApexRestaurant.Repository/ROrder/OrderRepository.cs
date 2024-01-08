@@ -1,7 +1,7 @@
 using ApexRestaurant.Repository.Domain;
 using Microsoft.EntityFrameworkCore;
 
-namespace ApexRestaurant.Repository.RStaff;
+namespace ApexRestaurant.Repository.ROrder;
 
 public class OrderRepository: GenericRepository<Order>, IOrderRepository
 {

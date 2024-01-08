@@ -5,7 +5,7 @@ namespace ApexRestaurant.Repository;
 
 public class RestaurantContext: DbContext 
 {
-    public RestaurantContext(DbContextOptions<RestaurantContext> options) {
+    public RestaurantContext(DbContextOptions<RestaurantContext> options) : base(options) {
 
     }
 

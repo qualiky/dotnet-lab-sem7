@@ -1,11 +1,11 @@
 using ApexRestaurant.Repository.Domain;
-using ApexRestaurant.Repository.RStaff;
+using ApexRestaurant.Repository.ROrderItem;
 
 namespace ApexRestaurant.Services.SOrderItem;
 
 public class OrderItemService : GenericService<OrderItem>, IOrderItemService
 {
-    public OrderItemService(IOrderItemRepository orderItemRepository) : base(orderItemRepository)
+    public OrderItemService(OrderItemRepository orderItemRepository) : base(orderItemRepository)
     {
         
     }
