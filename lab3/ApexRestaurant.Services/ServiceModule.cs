@@ -17,7 +17,7 @@ public static class ServiceModule
 		services.AddTransient<ICustomerService, CustomerService>();
 		services.AddTransient<IMenuItemService, MenuItemService>();
 		services.AddTransient<IOrderService, OrderService>();
-		// services.AddTransient<IOrderItemService, OrderItemService>();
+		//services.AddTransient<IOrderItemService, OrderItemService>();
 		services.AddTransient<IReservationService, ReservationService>();
 		services.AddTransient<IStaffService, StaffService>();
 		services.AddTransient<IStaffRoleService, StaffRoleService>();
